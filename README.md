@@ -1,6 +1,6 @@
 # Mitigating Gender Bias In Captioning System
 
-This is the pytorch implemention for paper “Mitigating Gender Bias In Captioning system”. Recent studies have shown that captioning datasets,
+This is the pytorch implemention for paper “Mitigating Gender Bias In Captioning system” [link](https://arxiv.org/abs/2006.08315). Recent studies have shown that captioning datasets,
 such as the COCO dataset, may contain severe social bias which could potentially lead to unintentional discrimination in learning models. 
 In this work, we specifically focus on the gender bias problem. 
 
